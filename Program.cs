@@ -18,5 +18,5 @@ for (var i = 0; i < Poblacion.Length; i++)
    Console.WriteLine($"{Departamento[i], 20} ==> {Poblacion[i],10:N0}");
 //Sumar todas las poblaciones con LinQ
 Console.WriteLine($"Población General:{Poblacion.Sum():N0}");
-Console.WriteLine($"Departamento con mayor Población:{maxDepKey}");
-Console.WriteLine($"Departamento con menor Población:{minDepKey}");
+Console.WriteLine($"mayor Población:{maxDepKey}");
+Console.WriteLine($"menor Población:{minDepKey}");
