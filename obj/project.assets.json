@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\Solutions.Net\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Public\\Repositorio Freddy 2023\\ColecDictionary\\ColecDictionary.csproj",
+      "projectUniqueName": "C:\\Users\\Solutions.Net\\Desktop\\ColecDictionary\\ColecDictionary\\ColecDictionary.csproj",
       "projectName": "ColecDictionary",
-      "projectPath": "C:\\Users\\Public\\Repositorio Freddy 2023\\ColecDictionary\\ColecDictionary.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Public\\Repositorio Freddy 2023\\ColecDictionary\\obj\\",
+      "projectPath": "C:\\Users\\Solutions.Net\\Desktop\\ColecDictionary\\ColecDictionary\\ColecDictionary.csproj",
+      "packagesPath": "C:\\Users\\Solutions.Net\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Solutions.Net\\Desktop\\ColecDictionary\\ColecDictionary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Solutions.Net\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
