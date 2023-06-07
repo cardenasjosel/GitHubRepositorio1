@@ -1,4 +1,4 @@
-﻿﻿//Programa que permite vizualizar los departamentos de Nicaragua con
+﻿//Programa que permite vizualizar los departamentos de Nicaragua con
 //su cantidad Poblacional
 //Encuentra Mayor, Menor, sumas y ordena los datos
 using System.Collections;
@@ -27,7 +27,7 @@ Console.WriteLine();
 //Mostrar resultado
 for (var i = 0; i < Poblacion.Length; i++)
     Console.WriteLine($"{Departamento[i],20} ==> {Poblacion[i],10:N0}");
-//Sumar todas las poblaciones con SUM de LinQ
+//Sumar todas las poblaciones con SUM en LinQ
 Console.WriteLine($"Población General:{diccionario.Values.Sum():N0}");
    Console.WriteLine($"Departamento con mayor Población:{maxDepKey}");
    Console.WriteLine($"Departamento con menor Población:{minDepKey}");
